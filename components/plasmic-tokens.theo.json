@@ -1,0 +1,19 @@
+{
+  "props": [
+    {
+      "name": "Yellow",
+      "type": "color",
+      "value": "#F0B90B",
+      "category": "color",
+      "meta": {
+        "projectId": "tPqUSAvm89CQ6Ba6P7RSnu",
+        "id": "F5wETujzv"
+      }
+    }
+  ],
+  "global": {
+    "meta": {
+      "source": "plasmic.app"
+    }
+  }
+}
